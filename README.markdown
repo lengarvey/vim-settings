@@ -4,9 +4,11 @@ My VIM setup
 To install
 ----------
 
+```
 cd ~
 git clone https://github.com/lengarvey/vim-settings.git .vim
 ln -s .vim/.vimrc
+```
 
 Finished :D
 
